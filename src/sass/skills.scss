@@ -1,0 +1,10 @@
+.dataSetArea {
+	margin-top: 50px;
+}
+
+.moreSkills {
+	&:hover {
+		border-bottom: 1px solid $darkred;
+		font-weight: 600;
+	}
+}

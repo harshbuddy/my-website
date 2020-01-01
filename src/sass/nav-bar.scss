@@ -1,0 +1,44 @@
+$navbar-border-height: 0.7rem;
+
+.navbar {
+  position: fixed;
+  top: 0;
+  width: 100%;
+  border-bottom: 1px solid $grey;
+  padding-left: 50px;
+  padding-right: 50px;
+
+  #nameButton {
+    color: black;
+    font-weight: 600;
+    font-size: $size-5;
+    &:focus {
+      outline: none;
+    }
+    &:hover {
+      border-bottom: 1.5px solid $darkred;
+      color: $darkred;
+    }
+  }
+
+  #navbar-item-name {
+    padding-top: $navbar-padding-vertical - $navbar-border-height;
+    padding-bottom: $navbar-padding-vertical - $navbar-border-height;
+    margin-top: $navbar-border-height;
+    margin-bottom: $navbar-border-height;
+  }
+
+  .section-link {
+    padding: 0;
+    margin-left: $size-6;
+    &:hover {
+      border-bottom: 1px solid $darkred;
+      color: $darkred;
+    }
+    &:focus {
+      outline: none;
+    }
+  }
+
+
+}
