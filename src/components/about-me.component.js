@@ -34,10 +34,10 @@ class AboutMe extends Component {
 								'Software Engineer ',
 								1500,
 
-								'Designer ',
+								'UI/UX Designer ',
 								1500,
 
-								'AI Developer ',
+								'AI & ML Developer ',
 								1500,
 
 								'Content Creator ',
