@@ -66,7 +66,7 @@ class Project extends Component {
            					<img className="projectPic" src="img/website.png"></img>
            				</figure>
 						<p>Developed using React, Bulma and various React libraries to display my personal portfolio for those interested hosted through Github Pages.</p>
-						<a className="DevpostLink" href="https://github.com/harshbuddy/Personal-Website">Github</a>
+						<a className="DevpostLink" href="https://github.com/harshbuddy/my-website">Github</a>
 					</div>
 
 				</div>
