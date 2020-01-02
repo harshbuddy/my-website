@@ -69,7 +69,7 @@ class NavBar extends Component {
 						</a>
 						</div>
 						<div className="navbar-item">
-						<a href="files/resume.pdf">
+						<a href="/files/resume.pdf">
 							<button className="bigLink">
 								Resume
 							</button>
