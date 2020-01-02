@@ -2,7 +2,7 @@ export default [
 
 
 	{
-		img: "/img/deloitte.jpg",
+		img: "img/deloitte.jpg",
     	position: "Business Technology Analyst",
     	company: "Deloitte Omnia AI",
     	location: "Toronto, Canada",
@@ -16,7 +16,7 @@ export default [
 	},
 
 	{
-		img: "/img/deloitte.jpg",
+		img: "img/deloitte.jpg",
     	position: "Software Developer",
     	company: "Deloitte Consulting",
     	location: "Toronto, Canada",
@@ -30,7 +30,7 @@ export default [
 	},
 
 	{
-		img: "/img/gsa.png",
+		img: "img/gsa.png",
     	position: "President",
     	company: "Gujarati Students' Association",
     	location: "Western University, London, Ontario",
@@ -44,7 +44,7 @@ export default [
 	},
 
 	{
-		img: "/img/westernai.png",
+		img: "img/westernai.png",
     	position: "Director of Marketing and Communications",
     	company: "Western AI",
     	location: "Western University, London, Ontario",
@@ -58,7 +58,7 @@ export default [
 	},
 
 	{
-		img: "/img/deloitte.jpg",
+		img: "img/deloitte.jpg",
     	position: "Campus Ambassador",
     	company: "Deloitte Consulting",
     	location: "Western University, London, Ontario",
