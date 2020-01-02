@@ -42,9 +42,9 @@ class Experience extends Component {
     return (
 
     <FadeIn>
-      <div className="level card experience-card">
+      <div className="card experience-card">
         <article className="media">
-          <div className="media-content level-item ">
+          <div className="media-content level ">
             <p className="image">
               <img src={img} alt=""/>
             </p>

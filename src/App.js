@@ -54,17 +54,17 @@ class App extends React.Component {
         <AboutMe/>
 
         <div id="expSec" style={{maxWidth: "1075px", margin: "auto"}}>
-          <h1 className="title">Experience</h1>
+          <h1 className="title" style={{marginLeft:20}}>Experience</h1>
           {this.renderExperience()}
         </div>
 
         <div id="proSec" style={{maxWidth: "1075px", margin: "auto", marginTop:150}}>
-          <h1 className="title" style={{marginBottom:-25}}>Projects</h1>
+          <h1 className="title" style={{marginBottom:-25, marginLeft:20}}>Projects</h1>
           <Project/>
         </div>
 
         <div id="skillsSec" style={{maxWidth: "1075px", margin: "auto", marginTop:150}}>
-          <h1 className="title" style={{marginBottom:-25}}>Skills</h1>
+          <h1 className="title" style={{marginBottom:-25, marginLeft:15}}>Skills</h1>
           <Skills/>
         </div>
 
