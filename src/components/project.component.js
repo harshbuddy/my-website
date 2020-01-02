@@ -15,7 +15,7 @@ class Project extends Component {
 					<div class="tile is-child box">
 						<p class="title has-text-centered is-size-4">ReminderX</p>
 						<figure class="image is-4by3">
-           					<img className="projectPic" src="../images/reminderx.jpg"></img>
+           					<img className="projectPic" src="img/reminderx.jpg"></img>
            				</figure>
 						
 						<p>Developed a pill dispenser which could be configured using a Smart Chat Bot or voice activated interface to target multiple demographics.The hardware had the capacity of holding up to 45 pills, which were individually identified using an optic sensor validating which pill needed to be dispensed.</p>
@@ -29,7 +29,7 @@ class Project extends Component {
 					<div class="tile is-child box">
 					<p class="title has-text-centered is-size-4">When We Listen</p>
 						<figure class="image is-4by3">
-           					<img className="projectPic" src="../images/whenwelisten.jpg"></img>
+           					<img className="projectPic" src="img/whenwelisten.jpg"></img>
            				</figure>
 						<p>Using Indico's Emotional Analysis API and Microsoft Text Analytics, this application would provide an average mental health rating for the Twitter account entered by the user. This was inspired by on going Mental Health issues in young adults as suicide prevention is something which is not discussed as much as it should be.</p>
 						<p><strong>Winner at HackWestern IV</strong></p>
@@ -43,7 +43,7 @@ class Project extends Component {
 					<div class="tile is-child box">
 						<p class="title has-text-centered is-size-4">FortiFlex</p>
 						<figure class="image is-4by3">
-           					<img className="projectPic" src="../images/fortiflex.jpg"></img>
+           					<img className="projectPic" src="img/fortiflex.jpg"></img>
            				</figure>
 						<p>With the growth of wearable tech, this solution provided individuals a way to perform physiotherapy exercises for their arms using the Myo Armband while tracking their progress using a web dashboard.</p>
 						<p> <strong>Best Healthcare Hack Runner Up at Hack Yale 2017</strong></p>
@@ -63,7 +63,7 @@ class Project extends Component {
 					<div class="tile is-child box">
 						<p class="title has-text-centered is-size-4">Personal Website</p>
 						<figure class="image is-4by3">
-           					<img className="projectPic" src="../images/website.png"></img>
+           					<img className="projectPic" src="img/website.png"></img>
            				</figure>
 						<p>Developed using React, Bulma and various React libraries to display my personal portfolio for those interested hosted through Github Pages.</p>
 						<a className="DevpostLink" href="https://github.com/harshbuddy/Personal-Website">Github</a>
