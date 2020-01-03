@@ -23,7 +23,7 @@ class AboutMe extends Component {
 						</h1>
 						</FadeIn>
 						<Typical
-							className="is-size-4"
+							className="is-size-2-desktop"
 							id="typingText"
 							loop = {Infinity}
 							wrapper='b'
