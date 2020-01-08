@@ -50,7 +50,7 @@ export default [
     	location: "Western University, London, Ontario",
     	dates: "September 2019 - Present",
     	description: [
-      	'Worked closely with a team of six to develop graphics to promote events and tutorials (ie. Intro to Neural Networks)',
+      	'Worked closely with a team of six to develop graphics to promote events and tutorials (ie. Intro to Neural Networks, Applying ML, Basic Machine Learning and many more)',
       	'Developed promotional material using Photoshop, Illustrator, Premiere Pro and After Effects',
       	'Managed several social media accounts such as Instagram and Facebook for an audience of 500',
     	]
