@@ -71,8 +71,25 @@ class Project extends Component {
 
 				</div>
 
+				<div class="tile is-4 is-vertical is-parent">
+					
+					<div class="tile is-child box">
+						<p class="title has-text-centered is-size-4">Pulse</p>
+						<figure class="image is-4by3">
+           					<img className="projectPic" src="img/pulse2.jpg"></img>
+           				</figure>
+						<p>Developed using React Native, PyTesseract, MongoDB and Firebase allowing users to book medical appointments to a nearby clinic with a mobile app which then sends patient data to a dashboard for medical professionals aiming to decrease walk-in clinic wait times.</p>
+						<p><strong>Best Technical Implementation at EnactusHacks</strong></p>
+						<a className="DevpostLink" href="https://github.com/harshbuddy/EnactusHacks"> Github  </a>
+
+						<a className="DevpostLink" href="https://devpost.com/software/pulse-nmoytv"> Devpost </a>
+					</div>
+
+				</div>
 				
 			</div>
+
+
 			</section>
 			)
 
