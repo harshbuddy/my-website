@@ -2,6 +2,19 @@ export default [
 
 
 	{
+    img: "img/deloitte.jpg",
+      position: "Technology Consultant",
+      company: "Deloitte Systems Engineering",
+      location: "Toronto, Canada",
+      dates: "August 2020 - Present",
+      description: [
+        'Developing predictive models using Python (Numpy, Pandas, Sklearn, Scipy, Seaborn) for a Top 5 insurance provider forecasted to save $800 million by optimizing auto insurance claims segmentation',
+        'Reconstructing auto claims infrastructure for one of Canada’s largest auto insurance provider saving $1.9 billion annually. Developed on GuideWire using relational databases (SQL) to query, clean, store and sort existing data. Built a data visualization tool to understand systematic time delays in the backend',
+        'Performed QA (Quality Assurance) Testing on existing and future state systems while developing official Testing Reports',
+      ]
+
+  },
+  {
 		img: "img/deloitte.jpg",
     	position: "Business Technology Analyst",
     	company: "Deloitte Omnia AI",
@@ -22,8 +35,7 @@ export default [
     	location: "Toronto, Canada",
     	dates: "May 2018 - September 2018",
     	description: [
-      	'Leading Canadian Call Center - developed live video streaming services in replacement of traditional phone services through a platform agnostic web video chat application to improve customer experience. Achieved using Python, Vanilla JS, WebRTC, Google Firebase and Flask',
-      	'Insurance Claims Assistant - developed an application to make auto and home claims process more efficient through computer vision and deep learning which sold to a Top 5 Canadian Insurance Company for $5 million. Achieved using Google Tensorflow, OpenCV, WebRTC, Google Firebase, Vanilla JS, Google Firebase, Node JS',
+      	'Developer for Canada’s first machine learning-enabled claims transformation estimated to produce $1 billion in protection against loss savings. Implemented conversational chat-bots using Google Dialogflow, a live video streaming service using WebRTC and a Tensorflow model to segment claims based on material damage',
       	'Internal Retail Application - developed an application to provide retailers with thorough insights about customer demographics and satisfaction on a local, provincial and national scale using artificial intelligence and computer vision. Achieved using Amazon Web Services, GraphQL, OpenCV, Vanilla JS, Google Firebase, Python, RaspberryPi',
     	]
 
