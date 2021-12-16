@@ -3,6 +3,19 @@ export default [
 
 	{
 		img: "../images/deloitte.jpg",
+    	position: "Technology Consultant",
+    	company: "Deloitte Digital",
+    	location: "Toronto, Canada",
+    	dates: "August 2020 - Present",
+    	description: [
+      	'Deloitte Qubit - Technical and software architecture lead for Deloitte Qubit: A Data Driven Predictive Modeling Service (SaaS) aiming to acquire and offer valuable data to Canadas largest P&C Insurance leaders. The project is forecasted to produce $10 million per annum in revenue',
+      	'ICBC Infrastructure Transformation - Built a data visualization tool to identify and reduce backend query execution times by 20% for a Top 5 Canadian Insurance provider using Splunk and expanded development with GOSU (similar to Java)',
+      	'Report Rationalization - Led technical and business capability and requirements gathering for a Top 5 Global Retailer, developed a Python OCR tool identifying 37% overlap in business reports and lead bi-weekly client meetings.',
+    	]
+
+	},
+	{
+		img: "../images/deloitte.jpg",
     	position: "Business Technology Analyst",
     	company: "Deloitte Omnia AI",
     	location: "Toronto, Canada",
@@ -10,8 +23,8 @@ export default [
     	description: [
       	'Health Care Bid - performed an RFI (Request for Information) by gathering requirements, developing system architecture, displaying vendor relationships and developing a project plan',
       	'Health Care Project - developed testing reports, completed user and system testing, worked with the client to understand system requirements through multiple project iterations while working in an Agile environment',
-      	'E-Sports Proof of Concept, acting as Project Manager by overseeing project development and organizing tasks, developed an application to allow content creators to create a highlight reel of gameplay by uploading content to a dashboard using machine learning and computer vision. Achieved using OpenCV, Python, JavaScript, HTML5, CSS. AWS',
-    	]
+      	'HighlightPlus - Software Architecture and Product Lead for a $200k computer vision powered Esports highlight reel platform reducing content editing time by 75%. Lead the Agile delivery by defining project architecture, coordinating developer tasks as Scrum Master and running code reviews for 3 developers.'
+	    ]
 
 	},
 
@@ -34,7 +47,7 @@ export default [
     	position: "President",
     	company: "Gujarati Students' Association",
     	location: "Western University, London, Ontario",
-    	dates: "September 2019 - Present",
+    	dates: "September 2019 - April 2020",
     	description: [
       	'Managed and led a team of 20 executives for one of the newest and fastest growing South Asian Clubs on the University of Western Ontario\'s Campus',
       	'Grew the clubs membership by 18% through organization of various cultural events across campus with an average attendance of 100 students from Western University and the surrounding London communities',
@@ -48,11 +61,12 @@ export default [
     	position: "Director of Marketing and Communications",
     	company: "Western AI",
     	location: "Western University, London, Ontario",
-    	dates: "September 2019 - Present",
+    	dates: "September 2019 - April 2020",
     	description: [
       	'Worked closely with a team of six to develop graphics to promote events and tutorials (ie. Intro to Neural Networks)',
       	'Developed promotional material using Photoshop, Illustrator, Premiere Pro and After Effects',
       	'Managed several social media accounts such as Instagram and Facebook for an audience of 500',
+		'Received recognition as the fastest growing club of 2019/2020 across the Western campus'
     	]
 
 	},
@@ -62,7 +76,7 @@ export default [
     	position: "Campus Ambassador",
     	company: "Deloitte Consulting",
     	location: "Western University, London, Ontario",
-    	dates: "September 2019 - Present",
+    	dates: "September 2019 - August 2020",
     	description: [
       	'Helped organize and lead networking sessions for students and peers to connect with Deloitte employees',
       	'Organized and attended countless coffee chats to provide insight on the type of work and culture Deloitte provides for students seeking opportunities with the firm',
