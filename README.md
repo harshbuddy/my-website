@@ -1,1 +1,4 @@
-My Personal Website to display my professional portfolio.
+Updates coming soon...
+
+Checkout my resume at:
+shorturl.at/dCF38
